@@ -29,6 +29,10 @@ To simplify the wiring, the 13 airports are daisy-chained sequentially around th
 | **12** | `KSTS` | Charles M. Schulz–Sonoma County Airport | North Bay |
 
 
+ESP8266 Arduino Source Code
+
+This code utilizes the FastLED library for controlling WS2812B pixels and the native ESP8266HTTPClient to pull plain text METAR lines from the Aviation Weather Center API.
+https://aviationweather.gov/
 
 ## 🎨 Flight Category Color Codes
 
